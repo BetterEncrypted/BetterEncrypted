@@ -10,7 +10,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-I am a passionate programmer from Germany.
+I am a programmer from Germany.
 - 🌱 I’m currently learning all of [Discord.js](https://discord.js.org/#/)
 - 💬 Ask me about anything [here](https://discord.gg/2QSw9hcudp)
 - 📫 Add Me On Discord? Maesket#9999
