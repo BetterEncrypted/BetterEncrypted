@@ -7,7 +7,7 @@
 </a>
 <br />
 
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/python-v3.7-blue)
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
