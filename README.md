@@ -4,7 +4,7 @@
 </a>
  <a href="https://github.com/Maesket">
   <img align="left" alt="My Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+</a> https://img.shields.io/badge/python-v3.7-blue
 
 <br />
 
