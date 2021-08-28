@@ -5,9 +5,13 @@
  <a href="https://github.com/Maesket">
   <img align="left" alt="My Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-![Python][https://img.shields.io/badge/python-v3.7-blue]
 <br />
 
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua&logoColor=007396)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
+  
 ### Glad to see you here! 🤩 &nbsp;
 
 I am a programmer from Germany.
